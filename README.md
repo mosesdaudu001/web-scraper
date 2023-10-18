@@ -6,6 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
+Install ES7+ React extension
 # or
 yarn dev
 # or
